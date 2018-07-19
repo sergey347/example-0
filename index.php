@@ -19,33 +19,33 @@ use Company\Route;
 $info = [
   [
     'transportation' => 'Train 78A',
-    'seat' 					 => '45B',
-    'origin' 				 => 'Madrid',
-    'destination' 	 => 'Barcelona',
+    'seat' => '45B',
+    'origin' => 'Madrid',
+    'destination' => 'Barcelona',
   ],
   [
     'transportation' => 'Airport Bus',
-    'seat' 					 => 'No seat assignment',
-    'origin' 				 => 'Barcelona',
-    'destination' 	 => 'Gerona Airport',
+    'seat' => 'No seat assignment',
+    'origin' => 'Barcelona',
+    'destination' => 'Gerona Airport',
   ],
   [
     'transportation' => 'Flight SK455',
-    'seat' 					 => 'Gate 45B, seat 3A',
-    'origin' 				 => 'Gerona Airport',
-    'destination' 	 => 'Stockholm',
+    'seat' => 'Gate 45B, seat 3A',
+    'origin' => 'Gerona Airport',
+    'destination' => 'Stockholm',
   ],
   [
     'transportation' => 'Flight SK22',
-    'seat' 					 => 'Gate 22B, seat 7B',
-    'origin' 				 => 'Stockholm',
-    'destination' 	 => 'New York JFK',
+    'seat' => 'Gate 22B, seat 7B',
+    'origin' => 'Stockholm',
+    'destination' => 'New York JFK',
   ],
   [
     'transportation' => 'Flight SK23',
-    'seat' 					 => 'Gate 22B, seat 8B',
-    'origin' 				 => 'New York JFK',
-    'destination' 	 => 'San Francisco',
+    'seat' => 'Gate 22B, seat 8B',
+    'origin' => 'New York JFK',
+    'destination' => 'San Francisco',
   ],
 ];
 
