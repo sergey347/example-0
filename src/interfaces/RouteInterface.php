@@ -5,7 +5,7 @@
  * @package People’s Travel Sorter
  *
  * @file
- * Contains iRoute interface definition.
+ * Contains RouteInterface definition.
  *
  * Describes methods that Route class must implement.
  */

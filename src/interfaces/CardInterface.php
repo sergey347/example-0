@@ -5,7 +5,7 @@
  * @package People’s Travel Sorter
  *
  * @file
- * Contains iCard interface definition.
+ * Contains CardInterface definition.
  *
  * Describes methods that Card class must implement.
  */

@@ -5,7 +5,7 @@
  * @package People’s Travel Sorter
  *
  * @file
- * Contains iCardHolder interface definition.
+ * Contains CardHolderInterface definition.
  *
  * Describes methods that CardHolder class must implement.
  */
@@ -17,12 +17,24 @@ namespace Company;
  */
 interface CardHolderInterface {
 
+  /**
+   * Retrieve count value.
+   */
   public function getCount();
 
+  /**
+   * Retrieve cards.
+   */
   public function getCards();
 
+  /**
+   * Retrieve specific Card object from Holder.
+   */
   public function getCard($index);
 
+  /**
+   * Retrieve Card object from Holder by origin value.
+   */
   public function getCardByOrigin($origin);
 
 }
